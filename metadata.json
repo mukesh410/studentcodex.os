@@ -1,0 +1,6 @@
+{
+  "name": "Codex Student OS",
+  "description": "An atmospheric, AI-powered Student OS for synthesis, planning, and academic problem-solving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Assistant", "Study Planner", "Notes Summarizer"]
+}
